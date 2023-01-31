@@ -20,4 +20,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kingsman44" />
 </p>
 
+[![An image of @shivan999's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivan999)](https://holopin.io/@shivan999)
+
 ![](https://hit.yhype.me/github/profile?user_id=58323485)
