@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shivan.0972@gmail.com**
 
-<a href="https://shivansingh.in" target="blank"><img align="center" src="https://user-images.githubusercontent.com/58323485/173990824-21295eba-86c2-4752-8f3f-af891ac56693.png" alt="My portfolio" height="100" width="100" /></a>
+<a href="https://shivansingh.info" target="blank"><img align="center" src="https://user-images.githubusercontent.com/58323485/173990824-21295eba-86c2-4752-8f3f-af891ac56693.png" alt="My portfolio" height="100" width="100" /></a>
 <h3 align="left">Find me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivan-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivan Singh" height="30" width="40" /></a>
